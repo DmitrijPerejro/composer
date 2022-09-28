@@ -1,8 +1,8 @@
 {
   "name": "name/name",
   "type": "project",
-  "description": "test.",
-  "keywords": [ "test" ],
+  "description": "",
+  "keywords": [],
   "license": "MIT",
   "config": {
     "optimize-autoloader": true,
